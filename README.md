@@ -24,7 +24,8 @@ Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOR
 **Phone number**: (+34) 6303035751366
 
 
-**cript filename**: AFGRRF.R
+**Script filename**: AFGRRF.R
+
 **Version Date**: November, 2020
 
 
