@@ -19,7 +19,7 @@ Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOR
 
 **Project Contact**: Víctor Rodríguez Galiano
 
-**Email**: lquesada@.es
+**Email**: lquesada@us.es
 
 **Phone number**: (+34) 6303035751366
 
