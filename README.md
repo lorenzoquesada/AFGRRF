@@ -2,7 +2,7 @@
 
 **Project**: Teledetección y clima: análisis de series temporales para la evaluación de la vulnerabilidad forestal al cambio climático y la estimación de cosechas en Andalucía -TelClim- (Ref: US-1262552)
 
-* * o _Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOREST: A NOVEL METHOD FOR PREDICTIVE MODELLING OF BINARY CLASSIFICATION"                         
+* * o _ Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOREST: A NOVEL METHOD FOR PREDICTIVE MODELLING OF BINARY CLASSIFICATION"    * * o _                     
 **Authors**: Lorenzo Carlos Quesada-Ruiz*, Victor Rodriguez-Galiano, Raúl Zurita-Milla, Emma Izquierdo-Verdiguier
 
 **Script first purpose**: New machine learning feature selection method applied to the mapping of binary geographic  phenomenon (occurrence vs absence).                         
