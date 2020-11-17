@@ -16,7 +16,7 @@
 ## Organization: Departamento de Geografía física y Análisis Geográfico Regional de la Unviersidad de Sevilla            ##
 ## Address: Doña María de Padilla, 40002, Seville, Spain                                                                 ##
 ## Project Contact: Víctor Rodríguez Galiano                                                                             ##
-## Email: lquesada@.es                                                                                                   ##
+## Email: lquesada@us.es                                                                                                   ##
 ## Phone number: (+34) 6303035751366                                                                                     ##
 ##_______________________________________________________________________________________________________________________##
 ## Script filename: AFGRRF.R                                                                                             ##
