@@ -13,7 +13,7 @@ Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOR
 
 **Authors code**: Lorenzo C. Quesada Ruiz, Víctor Rodríguez Galiano, Raúl Zurita-Milla, Emma Izquierdo-Verdiguier  
 
-**Organization**: Departamento de Geografía física y Análisis Geográfico Regional de la Unviersidad de Sevilla 
+**Organization**: Departamento de Geografía física y Análisis Geográfico Regional de la Unviersidad de Sevilla/Faculty of Geo-Information Science and Earth Observation (ITC) of the University of Twente
 
 **Address**: Doña María de Padilla, 40002, Seville, Spain
 
