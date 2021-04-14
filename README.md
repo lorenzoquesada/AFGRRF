@@ -11,7 +11,7 @@ Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOR
 
 **Run time**: the script may run daily  or may be used when needed
 
-**Authors code**: Lorenzo C. Quesada Ruiz, Víctor Rodríguez Galiano 
+**Authors code**: Lorenzo C. Quesada Ruiz, Víctor Rodríguez Galiano, Raúl Zurita-Milla, Emma Izquierdo-Verdiguier  
 
 **Organization**: Departamento de Geografía física y Análisis Geográfico Regional de la Unviersidad de Sevilla 
 
