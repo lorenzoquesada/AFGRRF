@@ -1,9 +1,18 @@
 
 ###########################################################################################################################
+#Area and Feature Guided Regularized Random Forest (AFGRRF)  is a R toolbox to select the best features that miminize the #
+#area while maximizing the overall accuracy. L. C. Quesada Ruiz, V. Rodríguez Galiano, R. Zurita-Milla and                #
+#E. Izquierdo-Verdiguier (Copyright (c) 2021).                                                                            #
+#The R toolbox has been developed by Lorenzo C. Quesada Ruiz and Víctor Rodríguez Galiano based on the code developed and #
+#used in Izquierdo-Verdiguier, E., and Zurita-Milla, R. (2020). "An evaluation of Guided Regularized Random Forest for    #
+#classification and regression tasks in remote sensing". International Journal of Applied Earth Observation and           #
+#Geoinformation, 88, 102051.                                                                                              #
+#
+#
 ## Project: Teledetección y clima: análisis de series temporales para la evaluación de la vulnerabilidad forestal al     ##
 #           cambio climático y la estimación de cosechas en Andalucía -TelClim- (Ref: US-1262552)
 # Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOREST: A NOVEL METHOD FOR PREDICTIVE     ##    
-# MODELLING OF BINARY CLASSIFICATION"                                                                                    ##  
+# MODELLING OF BINARY PHENOMENA"                                                                                    ##  
 # Authors: Lorenzo Carlos Quesada-Ruiz*, Victor Rodriguez-Galiano, Raúl Zurita-Milla, Emma Izquierdo-Verdiguier          ##
 ##                                                                                                                       ##
 ## Script first purpose: New machine learning feature selection method applied to the mapping of binary geographic       ##     
