@@ -1,39 +1,13 @@
 # AFGRRF CODE
 
 Area and Feature Guided Regularized Random Forest (AFGRRF)  is a R toolbox to select the best features that miminize the area while maximizing the overall accuracy.
-L. C. Quesada Ruiz, V. Rodríguez Galiano, R. Zurita-Milla and E. Izquierdo-Verdiguier (Copyright (c) 2021).
-The R toolbox has been developed by Lorenzo C. Quesada Ruiz and Víctor Rodríguez Galiano based on the code developed and used in Izquierdo-Verdiguier, E., and Zurita-Milla, R. (2020). "An evaluation of Guided Regularized Random Forest for classification and regression tasks in remote sensing". International Journal of Applied Earth Observation and Geoinformation, 88, 102051.
-
-
-**Project**: Teledetección y clima: análisis de series temporales para la evaluación de la vulnerabilidad forestal al cambio climático y la estimación de cosechas en Andalucía -TelClim- (Ref: US-1262552)
 
 Code associate to the manuscript "AREA AND FEATURE GUIDED REGULARISED RANDOM FOREST: A NOVEL METHOD FOR PREDICTIVE MODELLING OF BINARY PHENOMENA"
 
-**Authors**: Lorenzo Carlos Quesada-Ruiz*, Victor Rodriguez-Galiano, Raúl Zurita-Milla, Emma Izquierdo-Verdiguier
-
 **Script first purpose**: New machine learning feature selection method applied to the mapping of binary geographic  phenomenon (occurrence vs absence).                         
 **Script second purpose**:Selecting a feature subset that optimise both the overall accuracy and the potentially occurrence area, using the Success Rate                           
-
-**Run time**: the script may run daily  or may be used when needed
-
-**Authors code**: Lorenzo C. Quesada Ruiz, Víctor Rodríguez Galiano, Raúl Zurita-Milla, Emma Izquierdo-Verdiguier  
-
-**Organization**: Departamento de Geografía física y Análisis Geográfico Regional de la Unviersidad de Sevilla/Faculty of Geo-Information Science and Earth Observation (ITC) of the University of Twente
-
-**Address**: Doña María de Padilla, 40002, Seville, Spain
-
-**Project Contact**: Víctor Rodríguez Galiano
-
-**Email**: lquesada@us.es
-
-**Phone number**: (+34) 6303035751366
-
-
 **Script filename**: AFGRRF.R
-
-**Version Date**: November, 2020
-
-
+**Version Date**: August, 2021
 
 **I N S T R U C T I O N S**
 
